@@ -137,12 +137,12 @@ function Header() {
       lineNumber: 12,
       columnNumber: 9
     }
-  }, "\n            .navbar-brand {\n                font-size: 1.25vw;\n                font-weight: bold;\n                /*padding-right: .45vw;\n                padding-left: .45vw; */   \n                padding-right: 0.3vw!important;\n                padding-left: 0.3vw!important;  \n                margin-right:1vw;\n            }\n            .navbar-nav{\n                font-size: 1.05vw;\n                background-color: transparent;\n                color: #ffffff;\n            }\n            .navbar{\n                margin-left:10%;\n                height:100%;\n                margin-right:5rem;\n                white-space: nowrap;\n                width: 80%;\n                background-color: #202020!important;\n                padding: 0px;\n            }\n            .navcontainer{\n                width:100%;\n                height:3.25vw;\n                background-color: #202020!important;\n            }\n            .twitter{\n                /*margin-left: 1rem*/;\n                opacity: 50%;\n            }\n            .mr-auto{\n                padding: 0px;\n            }\n            .nav-link{\n                padding: 0vw;\n                padding-right: 0.45vw!important;\n                padding-left: 0.45vw!important;\n                opacity: 0.8;\n                color: #ffffff!important;\n                font-weight:400;\n            }\n            .twitterimg{\n                width:1.82vw;\n                height:1.82vw;\n            }\n            .mclogo{\n                width:2.5vw;\n                height:2.5vw;\n            }\n            .donate{\n                margin-left: 60.75vw!important;\n                padding-right: 0!important;\n            }\n            @media (max-aspect-ratio: 1/1) {\n                .navcontainer {\n                    height:6.5vw;\n                }\n                .navbar-brand {\n                    font-size: 2.5vw;\n                }\n                .navbar-nav {\n                    font-size: 2.10vw;\n                    padding-top:0.25vw;\n                }\n                .donate{\n                    padding-left: 30.75vw!important;\n                    padding-right: 0!important;\n                }    \n                .twitterimg{\n                    width:3.64vw;\n                    height:3.64vw;\n                }    \n                .mclogo{\n                    width:5vw;\n                    height:5vw;\n                }    \n            }\n            "), __jsx("div", {
+  }, "\n            .navbar-brand {\n                font-size: 1.25vw;\n                font-weight: bold;\n                /*padding-right: .45vw;\n                padding-left: .45vw; */   \n                padding-right: 0.3vw!important;\n                padding-left: 0.3vw!important;  \n                margin-right:1vw;\n            }\n            .navbar-nav{\n                font-size: 1.05vw;\n                background-color: transparent;\n                color: #ffffff;\n            }\n            .navbar{\n                margin-left:10%;\n                height:100%;\n                margin-right:5rem;\n                white-space: nowrap;\n                width: 80%;\n                background-color: #202020!important;\n                padding: 0px;\n            }\n            .navcontainer{\n                width:100%;\n                height:3.25vw;\n                background-color: #202020!important;\n            }\n            .twitter{\n                /*margin-left: 1rem*/;\n                opacity: 50%;\n                margin-right: 0vw;\n                margin-left: 0.75vw;\n            }\n            .discord{\n                opacity: 50%;\n                margin-left: 0.25vw;\n            }\n            .mr-auto{\n                padding: 0px;\n            }\n            .nav-link{\n                padding: 0vw;\n                padding-right: 0.45vw!important;\n                padding-left: 0.45vw!important;\n                opacity: 0.8;\n                color: #ffffff!important;\n                font-weight:400;\n            }\n            .twitterimg{\n                width:1.82vw;\n                height:1.82vw;\n            }\n            .mclogo{\n                width:2.5vw;\n                height:2.5vw;\n            }\n            .donate{\n                margin-left: 60.75vw!important;\n                padding-right: 0!important;\n            }\n            @media (max-aspect-ratio: 1/1) {\n                .navcontainer {\n                    height:6.5vw;\n                }\n                .navbar-brand {\n                    font-size: 2.5vw;\n                }\n                .navbar-nav {\n                    font-size: 2.10vw;\n                    padding-top:0.25vw;\n                }\n                .donate{\n                    margin-left: 42vw!important;\n                    padding-right: 0!important;\n                }    \n                .twitterimg{\n                    width:3.64vw;\n                    height:3.64vw;\n                }    \n                .mclogo{\n                    width:5vw;\n                    height:5vw;\n                }    \n            }\n            "), __jsx("div", {
     "class": "navcontainer",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95,
+      lineNumber: 101,
       columnNumber: 9
     }
   }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"], {
@@ -151,7 +151,7 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 96,
+      lineNumber: 102,
       columnNumber: 13
     }
   }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"].Brand, {
@@ -159,7 +159,7 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 97,
+      lineNumber: 103,
       columnNumber: 17
     }
   }, "                    ", __jsx("img", {
@@ -169,7 +169,7 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 97,
+      lineNumber: 103,
       columnNumber: 60
     }
   })), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
@@ -177,7 +177,7 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103,
+      lineNumber: 109,
       columnNumber: 17
     }
   }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
@@ -185,7 +185,7 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104,
+      lineNumber: 110,
       columnNumber: 21
     }
   }, "Model Packs"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
@@ -194,14 +194,14 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105,
+      lineNumber: 111,
       columnNumber: 21
     }
   }, "Donate")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107,
+      lineNumber: 113,
       columnNumber: 17
     }
   }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"].Brand, {
@@ -210,7 +210,7 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 108,
+      lineNumber: 114,
       columnNumber: 17
     }
   }, __jsx("img", {
@@ -220,7 +220,26 @@ function Header() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 109,
+      lineNumber: 115,
+      columnNumber: 21
+    }
+  })), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"].Brand, {
+    className: "discord",
+    href: "https://discord.gg/Rm4rmuN",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121,
+      columnNumber: 17
+    }
+  }, __jsx("img", {
+    src: "/discordlogo.png",
+    className: "d-inline-block align-top twitterimg",
+    alt: "Twitter Link",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 122,
       columnNumber: 21
     }
   }))))));
