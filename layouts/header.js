@@ -42,6 +42,12 @@ export default function Header() {
             .twitter{
                 /*margin-left: 1rem*/;
                 opacity: 50%;
+                margin-right: 0vw;
+                margin-left: 0.75vw;
+            }
+            .discord{
+                opacity: 50%;
+                margin-left: 0.25vw;
             }
             .mr-auto{
                 padding: 0px;
@@ -78,7 +84,7 @@ export default function Header() {
                     padding-top:0.25vw;
                 }
                 .donate{
-                    padding-left: 30.75vw!important;
+                    margin-left: 42vw!important;
                     padding-right: 0!important;
                 }    
                 .twitterimg{
@@ -108,6 +114,13 @@ export default function Header() {
                 <Navbar.Brand className="twitter" href="https://twitter.com/modelcitizensbs">
                     <img
                         src="/twitterlogo.png"
+                        className="d-inline-block align-top twitterimg"
+                        alt="Twitter Link"
+                    />
+                </Navbar.Brand>
+                <Navbar.Brand className="discord" href="https://discord.gg/Rm4rmuN">
+                    <img
+                        src="/discordlogo.png"
                         className="d-inline-block align-top twitterimg"
                         alt="Twitter Link"
                     />
