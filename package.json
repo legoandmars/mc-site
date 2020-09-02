@@ -1,0 +1,22 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export -o docs",
+    "start": "next start",
+    "deploy": "next build && next export -o docs && git checkout -- docs/.nojekyll && git checkout -- docs/CNAME && git add docs && git commit -m \"chore: regen site\" && git push origin master"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "fs": "0.0.1-security",
+    "gray-matter": "^4.0.2",
+    "next": "9.3.5",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
+    "react-scripts": "^3.4.1"
+  }
+}
