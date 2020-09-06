@@ -108,7 +108,7 @@ export default function Header() {
                 </Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="/">Model Packs</Nav.Link>
-                    <Nav.Link href="https://ko-fi.com/bobbievr" className="donate">Donate</Nav.Link>
+                    <Nav.Link href="https://ko-fi.com/modelcitizens" className="donate">Donate</Nav.Link>
                 </Nav>
                 <Nav>
                 <Navbar.Brand className="twitter" href="https://twitter.com/modelcitizensbs">

@@ -103,9 +103,9 @@ export default function Post({ postData }) {
             return(
                 <>
                     <div class="donationpopup" id="donationpopup">
-                        <p class="text-light donationtext">Have a few extra bucks and want to support us in making awesome free model packs? Donate to Bobbie's ko-fi!</p>
+                        <p class="text-light donationtext">Have extra cash and want to support us in making awesome free model packs? Donate to our ko-fi!</p>
                         <ButtonGroup className="d-flex donationbuttons">
-                            <Button type="button" variant="dark" className="button1" href="https://ko-fi.com/bobbievr" download>Donate</Button>
+                            <Button type="button" variant="dark" className="button1" href="https://ko-fi.com/modelcitizens" download>Donate</Button>
                             <Button type="button" variant="dark" className="button2" onClick={()=>{
                                 document.getElementById("donationpopup").style.visibility = "hidden";
                             }}>Close</Button>
