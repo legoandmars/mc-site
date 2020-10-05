@@ -95,7 +95,7 @@ function Header() {
       columnNumber: 21
     }
   }, "Model Packs"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
-    href: "https://ko-fi.com/bobbievr",
+    href: "https://ko-fi.com/modelcitizens",
     className: "donate",
     __self: this,
     __source: {
@@ -341,12 +341,102 @@ function modelPage(allModels, modelType) {
       lineNumber: 115,
       columnNumber: 17
     }
-  }, "Model Citizens")), __jsx("div", {
-    "class": "album py-5",
+  }, "Model Citizens"), __jsx("meta", {
+    content: "bsmodel.city",
+    property: "og:site_name",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 116,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "#d42929",
+    name: "theme-color",
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 117,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "Model Citizens",
+    property: "og:title",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 118,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "Download high quality Beat Saber model packs from Model Citizens!",
+    property: "og:description",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 119,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "https://bsmodel.city/mc_logo.png",
+    property: "og:image",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 120,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "summary",
+    name: "twitter:card",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "Model Citizens",
+    name: "twitter:title",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 122,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "Download high quality Beat Saber model packs from Model Citizens!",
+    name: "twitter:description",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 123,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "https://bsmodel.city",
+    name: "twitter:url",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 124,
+      columnNumber: 17
+    }
+  }), __jsx("meta", {
+    content: "https://bsmodel.city/mc_logo.png",
+    name: "twitter:image",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 125,
+      columnNumber: 17
+    }
+  })), __jsx("div", {
+    "class": "album py-5",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 128,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -354,7 +444,7 @@ function modelPage(allModels, modelType) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 118,
+      lineNumber: 129,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -362,7 +452,7 @@ function modelPage(allModels, modelType) {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 119,
+      lineNumber: 130,
       columnNumber: 21
     }
   }, modelElementList))));
